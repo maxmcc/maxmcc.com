@@ -1,0 +1,20 @@
+{
+  "name": "maxmcc.com",
+  "description": "Max McCarthy's personal website",
+  "dependencies": {
+    "basscss-sass": "~4.0.0",
+    "uncss": "^0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmcc/maxmcc.com.git"
+  },
+  "author": "Max McCarthy",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/maxmcc/maxmcc.com/issues"
+  },
+  "homepage": "https://maxmcc.com"
+}
+

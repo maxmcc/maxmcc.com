@@ -1,0 +1,47 @@
+title: Max McCarthy
+
+author:
+  name: Max McCarthy
+  email: 'hello@maxmcc.com'
+
+description: >
+  Max McCarthy is a software designer.
+
+license:
+  short: MIT
+  long: The MIT License
+
+collections:
+
+gems:
+  - sass
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  parse_block_html: true
+
+permalink: /blog/:year/:month/:title/
+
+sass:
+  sass_dir: assets/styles/
+
+uncss:
+  stylesheets:
+    - assets/styles/main.css
+  files:
+    - "**/*.html"
+  compress:
+    true
+
+source: src
+destination: tmp
+
+exclude:
+  - README*
+  - Gemfile*
+  - node_modules
+  - package.json
+
