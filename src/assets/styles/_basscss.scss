@@ -1,0 +1,43 @@
+//==============================================================================
+// _basscss.scss - Basscss framework Sass imports
+//==============================================================================
+
+//------------------------------------------------------------------------------
+// Basscss default imports
+//------------------------------------------------------------------------------
+
+// This @import directive imports the default modules in the v8.0.0 distribution
+// of Basscss. Specifically, those are:
+//   align, border, flexbox, grid, hide, layout, margin,
+//   padding, position, type-scale, and typography
+
+@import '../../node_modules/basscss-sass/scss/basscss';
+
+//------------------------------------------------------------------------------
+// Basscss addons
+//------------------------------------------------------------------------------
+
+// These modules were moved out of the Basscss default package in v8.0.0, and
+// now exist in a separate 'basscss-addons' NPM package (but are still included
+// in the one we use, 'basscss-sass'). However, the default SCSS import still
+// does not include them, so we selectively include them below.
+
+@import '../../node_modules/basscss-sass/scss/all';
+@import '../../node_modules/basscss-sass/scss/background-colors';
+@import '../../node_modules/basscss-sass/scss/background-images';
+@import '../../node_modules/basscss-sass/scss/border-colors';
+@import '../../node_modules/basscss-sass/scss/btn-outline';
+@import '../../node_modules/basscss-sass/scss/btn-primary';
+@import '../../node_modules/basscss-sass/scss/btn';
+@import '../../node_modules/basscss-sass/scss/colors';
+@import '../../node_modules/basscss-sass/scss/darken';
+@import '../../node_modules/basscss-sass/scss/forms';
+@import '../../node_modules/basscss-sass/scss/highlight-dark';
+@import '../../node_modules/basscss-sass/scss/highlight';
+@import '../../node_modules/basscss-sass/scss/input-range';
+@import '../../node_modules/basscss-sass/scss/lighten';
+@import '../../node_modules/basscss-sass/scss/media-object';
+@import '../../node_modules/basscss-sass/scss/progress';
+@import '../../node_modules/basscss-sass/scss/responsive-margin';
+@import '../../node_modules/basscss-sass/scss/responsive-padding';
+
