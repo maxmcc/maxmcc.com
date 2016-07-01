@@ -2,4 +2,40 @@
 ---
 
 @import 'basscss';
-@import 'reset';
+@import 'typography';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Helvetica,
+    sans-serif;
+  line-height: 1.4;
+  margin: 0;
+  color: #111;
+  background-color: #fff
+}
+
+a {
+  $blue: #669ec3;
+  color: darken($blue, 10%);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.photo {
+  margin-left: -19px;
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
