@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: wrap
 ---
 
 <h2 class="fw-300">Max McCarthy</h2>
