@@ -5,13 +5,14 @@ author:
   email: 'hello@maxmcc.com'
 
 description: >
-  Max McCarthy is a software designer.
+  Max McCarthy is an interaction designer.
 
 license:
   short: MIT
   long: The MIT License
 
-collections:
+source: src
+destination: tmp
 
 gems:
   - sass
@@ -36,12 +37,4 @@ uncss:
   compress:
     true
 
-source: src
-destination: tmp
-
-exclude:
-  - README*
-  - Gemfile*
-  - node_modules
-  - package.json
 
