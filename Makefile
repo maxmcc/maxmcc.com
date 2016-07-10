@@ -8,6 +8,7 @@ server:
 
 clean:
 	$(JEKYLL) clean
+	rm -rf node_modules
 
 install:
 	bundle install
