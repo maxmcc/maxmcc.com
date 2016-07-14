@@ -3,7 +3,7 @@
   "description": "Max McCarthy's personal website",
   "dependencies": {
     "basscss-sass": "~4.0.0",
-    "uncss": "^0.13.0"
+    "uncss": "^0.14.0"
   },
   "repository": {
     "type": "git",
@@ -15,6 +15,5 @@
   "bugs": {
     "url": "https://github.com/maxmcc/maxmcc.com/issues"
   },
-  "homepage": "https://maxmcc.com"
+  "homepage": "https://www.maxmcc.com"
 }
-
