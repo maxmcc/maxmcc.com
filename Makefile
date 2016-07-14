@@ -1,7 +1,7 @@
 JEKYLL=bundle exec jekyll
 
 build:
-	$(JEKYLL) build
+	$(JEKYLL) build --trace
 
 server:
 	$(JEKYLL) serve
