@@ -13,3 +13,5 @@ install:
 	bundle install
 	npm install
 
+deploy: build
+	storm deploy
