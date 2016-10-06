@@ -37,4 +37,6 @@ uncss:
   compress:
     true
 
+include:
+  - ".well-known"
 
