@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/maxmcc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://maxmcc.com
+  * I am maxmcc (https://keybase.io/maxmcc) on keybase.
+  * I have a public key ASDWN-RA8luKTUYquDmvtNXUUQNhOw_En_Sb1I8xncuj_Qo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017ea060eaf199c098a59342a1259678356f69204e2594a58b55c61f9344fb4ca20a",
+            "host": "keybase.io",
+            "kid": "0120d637e440f25b8a4d462ab839afb4d5d45103613b0fc49ff49bd48f319dcba3fd0a",
+            "uid": "267523a9aa1ba22fdaa5966ff23ebf19",
+            "username": "maxmcc"
+        },
+        "service": {
+            "hostname": "maxmcc.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1475725364,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1475725130,
+        "hash": "891583e7ffe8909f657542c5b04746afe3f4fb8ba5d61983a76a98e3708addaddebb782cac6e74d19aac0ce3459d54008e679c8b653283c83e5acdb27df1768c",
+        "seqno": 666128
+    },
+    "prev": "404a20d52278576d2f89af41f467862ad0ebf804626f2bfbc7700cd011022d5d",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1jfkQPJbik1GKrg5r7TV1FEDYTsPxJ/0m9SPMZ3Lo/0Kp3BheWxvYWTFAvB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxN2VhMDYwZWFmMTk5YzA5OGE1OTM0MmExMjU5Njc4MzU2ZjY5MjA0ZTI1OTRhNThiNTVjNjFmOTM0NGZiNGNhMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDYzN2U0NDBmMjViOGE0ZDQ2MmFiODM5YWZiNGQ1ZDQ1MTAzNjEzYjBmYzQ5ZmY0OWJkNDhmMzE5ZGNiYTNmZDBhIiwidWlkIjoiMjY3NTIzYTlhYTFiYTIyZmRhYTU5NjZmZjIzZWJmMTkiLCJ1c2VybmFtZSI6Im1heG1jYyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWF4bWNjLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzU3MjUzNjQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3NTcyNTEzMCwiaGFzaCI6Ijg5MTU4M2U3ZmZlODkwOWY2NTc1NDJjNWIwNDc0NmFmZTNmNGZiOGJhNWQ2MTk4M2E3NmE5OGUzNzA4YWRkYWRkZWJiNzgyY2FjNmU3NGQxOWFhYzBjZTM0NTlkNTQwMDhlNjc5YzhiNjUzMjgzYzgzZTVhY2RiMjdkZjE3NjhjIiwic2Vxbm8iOjY2NjEyOH0sInByZXYiOiI0MDRhMjBkNTIyNzg1NzZkMmY4OWFmNDFmNDY3ODYyYWQwZWJmODA0NjI2ZjJiZmJjNzcwMGNkMDExMDIyZDVkIiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHmqnWn2lNDhpRZGM+PJFvIvHasyjYuzsyw7A0G4brQxjxDpjTcyZYPyi5kKlNVtD/QtbU1gBHTZALP7y5yM0Q+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCcO9ngAGoZ4mHt3fHmCo0AkVFRbd8lybU8PKk1Kjct8qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maxmcc
+
+==================================================================
