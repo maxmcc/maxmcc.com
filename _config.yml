@@ -36,7 +36,3 @@ uncss:
     - "**/*.html"
   compress:
     true
-
-include:
-  - ".well-known"
-
