@@ -14,7 +14,8 @@
   <meta name="keywords" content="max,mccarthy,maxmcc,software,design,penn,apple">
   <meta name="description" content="{% if page.excerpt %}
     {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-    {% else %}{{ site.description }}{% endif %}">
+  {% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 </head>
