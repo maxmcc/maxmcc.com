@@ -12,6 +12,3 @@ clean:
 install:
 	bundle install
 	npm install
-
-deploy: build
-	netlify deploy
