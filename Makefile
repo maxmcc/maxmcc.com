@@ -14,4 +14,4 @@ install:
 	npm install
 
 deploy: build
-	storm deploy
+	netlify deploy
