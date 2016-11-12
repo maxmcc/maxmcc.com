@@ -1,9 +1,5 @@
 JEKYLL=bundle exec jekyll
 
-setup:
-	bundle install
-	npm install
-
 build:
 	$(JEKYLL) build --trace
 
@@ -12,5 +8,9 @@ server:
 
 clean:
 	$(JEKYLL) clean
+
+setup:
+	bundle install
+	npm install
 
 netlify-autodeploy: setup build
