@@ -1,6 +1,8 @@
 JEKYLL=bundle exec jekyll
 
 build:
+	bundle install
+	npm install
 	$(JEKYLL) build --trace
 
 server:
