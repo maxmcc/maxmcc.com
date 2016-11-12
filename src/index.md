@@ -11,7 +11,7 @@ layout: wrap
 I'm a software designer, currently working at Apple in sunny California.
 
 I graduated from the University of Pennsylvania in May 2016, with a Bachelor of
-Arts in [cognitive science](https://www.ircs.upenn.edu/) and a Bachelor of
+Arts in [cognitive science](https://web.sas.upenn.edu/cogsci/) and a Bachelor of
 Applied Science in [computer and information
 science](https://www.cis.upenn.edu/index.php).
 
@@ -23,6 +23,6 @@ software for nonprofit organizations. I also rowed on the lightweight crew for
 two years.
 
 You can get in touch with me by [email](mailto:hello@maxmcc.com) or on
-[Twitter](https://twitter.com/ccmxam), or check out some of my software projects
+[Twitter](https://twitter.com/_maxmcc), or check out some of my software projects
 on [GitHub](https://github.com/maxmcc).
 
